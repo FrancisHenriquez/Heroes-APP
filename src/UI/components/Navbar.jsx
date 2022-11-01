@@ -59,7 +59,7 @@ export const Navbar = () => {
                    </span>
                    <button
                    className='nav-item nav-link btn'
-                   onClick={ onLogout }
+                   onClick= { onLogout }
                    >Logout</button>
                 </ul>
             </div>
