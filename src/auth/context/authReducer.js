@@ -1,8 +1,6 @@
 import { types } from "../components/types/types";
 
 
-// import { types } from '../types/types';
-
 export const authReducer = ( state = {}, action ) => {
 
 
